@@ -57,7 +57,7 @@ https://github.com/4GeeksAcademy/react-hello-webapp
 
 ### About the images:
 
-The following URL can provide you with any image you want to include in the project, you just have to know the plant, character, vehicle id, and you can use the following URL as a template:
+The following URL can provide you with any image you want to include in the project, you just have to know the planet, character, vehicle id, and you can use the following URL as a template:
 
 ```text
 https://github.com/breatheco-de/swapi-images/blob/master/public/images/planets/11.jpg?raw=true
